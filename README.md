@@ -6,6 +6,9 @@
 
 First React App that set up packet list before travel
 
-## Movie Site
+## Movie Log
 
-Second React app that record your favorite movie
+Second React app that records and rates your favorite movie
+Key techniques:
+Component Composition
+Props as a Component API
